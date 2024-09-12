@@ -1,0 +1,49 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  
+  /* Nutrition Label Container */
+  .nutrition-label {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #fff;
+  }
+  
+  /* Heading Section */
+  h1 {
+    font-size: 24px;
+    margin: 0;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 8px solid #000;
+  }
+  
+  /* Calories Section */
+  .calories-section {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
+  /* Vitamin Section */
+  .vitamin-section {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  /* General Text and HR Styling */
+  p {
+    margin: 5px 0;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 8px 0;
+  }
+  
